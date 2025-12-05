@@ -1,0 +1,7 @@
+{
+  "name": "urbanrides",
+  "description": "A premium, visually immersive ride-hailing experience focusing on safety, aesthetics, and comfort.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
